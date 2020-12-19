@@ -10,6 +10,12 @@ width: 100%;
 font-family:monospace;
 backgruond-color: #8D9DB6;
 }
+
+.body {
+  height: 100%;
+  width: 100%;
+}
+  
   
 
 
