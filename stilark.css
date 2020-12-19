@@ -2,5 +2,7 @@ topptekst {
 position:center;
 font-family:Vivaldi;
 font-size:30px;
+height:100%;
+display:flex;
 }
 
