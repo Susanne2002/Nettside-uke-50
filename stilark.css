@@ -1,8 +1,10 @@
-topptekst { 
-position:center;
+.topptekst{ 
+text-align: center;
 font-family:Vivaldi;
 font-size:30px;
-height:100%;
-display:flex;
+padding: 20px;
+backgruond-color: 8d9db6
 }
+
+
 
