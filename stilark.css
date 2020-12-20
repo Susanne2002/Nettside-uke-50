@@ -6,6 +6,7 @@ background-color: #8D9DB6;
 font-family: cursive;
 color: #f1e3dd;
 width: 1200px;
+margin: auto;
 }
 
 .meny {
@@ -17,6 +18,7 @@ width: 1200px;
   border: 2px double #f1e3dd;
   width: 1200px;
   font-family: 'Trebuchet MS';
+  margin: auto;
 }
 a{
   color: #f1e3dd;
