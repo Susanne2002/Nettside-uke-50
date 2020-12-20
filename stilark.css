@@ -1,20 +1,63 @@
 .topptekst{ 
 text-align: center;
-font-size:30px;
+font-size:20px;
 padding: 20px;
-backgruond-color: #8d9db6;
+background-color: #8D9DB6;
+font-family: cursive;
+color: #f1e3dd;
+width: 1200px;
 }
 
-.topp {
-font-family:monospace;
-backgruond-color: #8d9db6;
+.meny {
+  background-color: #667292;
+  display: flex;
+  height: 26px;
+  justify-content: space-around;
+  Padding: 12px;
+  border: 2px double #f1e3dd;
+  width: 1200px;
+  font-family: 'Trebuchet MS';
+}
+a{
+  color: #f1e3dd;
+  text-decoration: none;
 }
 
-.body {
-  height: 100%;
-  width: 100%;
+a:hover{
+  color: #f1e3dd;
+  text-decoration: none;
+}
+
+.innpakning1 {
+  max-width: 1200px;
+  min-width: 1100px;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  flex-wrap: wrap;
+  font-family: 'Trebuchet MS';
+   color: #f1e3dd;
+   background-color: #8d9db6;
 }
   
+.overskrift {
+  width: 98%;
+  margin: 1%;
+  text-align: center;
+}
+
+.avsnitt1 {
+  width:48%;
+  margin:1%;
+  padding-top:0px;
+}
+
+.avsnitt2 {
+  width:90%;
+  margin:1%;
+  padding-top:0px;
+}
+
   
 
 
